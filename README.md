@@ -1,4 +1,4 @@
 DSA
 ===
 
-DataStructures Assignments code - written in C# in a Imperitive and at times, FImperitive manner.
+DataStructures Assignments code - written in C# in an Imperitive and at times, FImperitive manner.
